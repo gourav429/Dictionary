@@ -1,1 +1,1 @@
-# Dictionary
+It's an interactive dictionary application developed in python. This can be used to find the meaning of word and if the word is not present in the dictionary then it will show the words related to the entered word.
